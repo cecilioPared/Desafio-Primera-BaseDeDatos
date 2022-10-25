@@ -2,7 +2,7 @@
 
 ## Configuración inicial
 
-Previo a la ejecución del proyecto se debe crear en el directorio raiz del mismo un archivo `.env` con 3 variables 
+Previo a la ejecución del proyecto se debe crear en el directorio raiz del mismo un archivo `.env` con 8 variables 
 ```
 URI = "127.0.0.1"
 DB_PORT = 3306
